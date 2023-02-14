@@ -1,0 +1,1 @@
+export const BACKEND_API_GATEWAY_URL = 'http://localhost:9000';
